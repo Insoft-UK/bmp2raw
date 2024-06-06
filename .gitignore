@@ -1,0 +1,6 @@
+*.xcworkspace/xcuserdata/
+xcuserdata/
+.DS_Store
+mbk2bmp/
+SDL/
+uBasic/
